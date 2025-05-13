@@ -1,3 +1,7 @@
+INSTALL:
+pip install opencv-python matplotlib numpy
+
+
 USAGE:
 
 1.
